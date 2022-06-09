@@ -1,14 +1,17 @@
 As a part of Learning
 Completed following courses:
-1.SpringBoot 
-2.MicroServices
-3.Nodejs Essential Training
-4.Messaging Basics
-5.Cloud Basics 
+1.Java basics and functional programming in java
+2.Learning spring with spring boot 
+3.MicroServices foundations
+4.Java Script
+5.Nodejs Essential Training
+6.Microservices asynchronous messaging 
+7.Cloud Computing
 from the given sources in LinkedIn Learning.
 
 ->Also referred to youtube videos for better understanding. 
-->Built a springBoot application using functional programming.
+->Built a web application using spring boot.
+
 
 
 
